@@ -1,6 +1,6 @@
 {
 	"name": "Open all BR",
-	"version": "0.1",
+	"version": "0.2",
 	"description": "Open all Baidu Result with dbl-click",
   "icons": {
     "16": "images/open_all_br.png",
